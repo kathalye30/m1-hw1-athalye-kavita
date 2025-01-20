@@ -1,1 +1,12 @@
-# m1-hw1-athalye-kavita
+# My First Coding Assignment
+![Cozy Aesthetic](https://cdn.sanity.io/images/ruord509/production/219a4d54170b074c3ccec2daf54f7520d99f8e92-600x300.jpg?w=3840&q=75&fit=clip&auto=format)
+
+## About Me
+I work as the marketing communications manager at an indepdendent school, and oversee branding, digital and print design, photography, and website content management. I moved to India with my parents when I was in 5th grade and completed my middle and high school years there, and came back to the US for college and have been here since. I love spending my breaks and holidays visitng my parents back in India, or meeting up with them in a new country to explore. I am a huge pet lover even though I don't any myself.
+
+## Career Goals
+I'm relatively new in my current role having worked at a different school previously at the associate level. I actually studied Biology in college, so to make a total pivot from research to communications was initially difficult. My previous role allowed me to hone skills in graphic design, website management, social media management, and photography. At the moment, I'm really enjoying branding and design, and after leading the website redesign at my previous school, I am more invested in growing my web skills not only from the aesthetics aspect but also through coding. I would love to continue focusing my career on digital branding. 
+
+
+## Past Coding Experience
+In India, we were required to take computer science coding classes throughout middle and high school, and admittedly it wasn't my strength whatsoever. However, years later after recently being part of a website redesign team at my previous employer, where I built webpages based on modules that were already coded for our use, I loved editing the HTML code and getting to customize the modules through color, picture, animation, and text. I realized that I enjoyed coding for design more than coding mathematical equations like I did in school! I was the go-to person for custom webpage requests that we received from various departments and I really enjoyed experimenting with different code to see how the changes were reflected on the webpage. It was this redesign project that inspired me to pursue the certificate course in Web Design, as my main Masters program is in social media.
